@@ -1,12 +1,9 @@
 # DB settings
-user = 'root'
-# user = 'sotorrent'
-password = ''
-# password = 'password'
+user = 'sotorrent'
+password = 'password'
 host = '127.0.0.1'
 port = '3306'
-database = 'SOTorrent_db'
-# database = 'sotorrent18_09'
+database = 'sotorrent18_09'
 
 
 # Data dump paths
