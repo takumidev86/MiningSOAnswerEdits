@@ -15,7 +15,6 @@ data_dump_original_path = "/mnt/e/data_dump_original_path/"
 data_dump_final_path = "/mnt/e/data_dump_final_path/"
 # 方法論の全てのデータを保存させるパスに設定する
 data_path = "/mnt/e/data_path/"
-# sequence_extractor_path = "/mnt/e/sequence_extractor_path/"
-# sequence_extractor_path = "/mnt/e/sequence_extractor_path/SequenceExtractor/src/sequenceextractor/SequenceExtractor.java"
-sequence_extractor_path = "/mnt/e/sequence_extractor_path/SequenceExtractor-0.4.jar"
-# /mnt/e/sequence_extractor_path/SequenceExtractor/src/sequenceextractor
+
+# sequence_extractor_path = "/path/to/SequenceExtractor-0.4.jar"
+sequence_extractor_path = "/mnt/e/sequence_extractor_path/SequenceExtractor.jar"
